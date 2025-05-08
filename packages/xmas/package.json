@@ -1,0 +1,22 @@
+{
+  "name": "@karponents/xmas",
+  "version": "0.0.0",
+  "description": "Karponents for X-mas project",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sangyeon Park <dhkdwk1041@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
